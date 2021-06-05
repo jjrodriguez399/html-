@@ -1,0 +1,29 @@
+body{
+    background-color:paleturquoise;
+}
+ #parrafo{
+     color: purple;
+ }
+ .etiqueta{
+     color: blue;
+ }
+ .caja{
+     margin: 8px;
+     background-color: palegreen;
+    padding: 8px;
+    border-style: solid;
+    border-width: 8px;
+    border-color: teal;
+    border-left: green double 3px;
+    border-right: green double 3px  ;
+    border-bottom: double 6px blue;
+    border-top:double red 8px  ;
+    background-color: thistle;
+    border-radius: 8px;
+    height: 25px;
+    width: 130px;
+    color: green;
+
+     }
+
+
