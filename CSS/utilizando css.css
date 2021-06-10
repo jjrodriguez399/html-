@@ -1,0 +1,46 @@
+#aceptar{
+    background-color: blue;
+    color: white;
+
+}
+#cancelar{
+    background-color: gray;
+    color: white
+    ;
+
+}
+.footer{
+    border-bottom: solid 0.5px ;
+    border-left: solid 0.5px ;
+    border-right: solid 0.5px ;
+    padding: 12px;
+
+    
+    
+}
+.cabezera{
+
+border-bottom: solid 0.5px;
+border-left: solid 0.5px ;
+border-right: solid 0.5px ;
+border-top: solid 0.5px;   
+margin: 0px; 
+padding: 12px;
+
+
+
+}
+
+.texto{
+    border-bottom: solid 0.5px;
+    border-left: solid 0.5px ;
+    border-right: solid 0.5px ;
+    margin: 0px;
+    padding: 12px;
+
+
+
+   
+
+
+}

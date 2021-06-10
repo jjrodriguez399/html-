@@ -1,0 +1,74 @@
+h1{
+    color: black;
+    text-align: center;
+    text-decoration:  grey 1px  ;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    font-style: italic;
+    font-weight: 100;
+}   
+a{
+    text-decoration: none;
+    text-transform: capitalize;
+    color: green;
+    background-color: lightgreen;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 4px;
+    border: 8px green dotted;
+
+}
+a:link{
+    color: green;
+    text-decoration: none;
+}
+a:visited{
+    color: greenyellow;
+}
+a:active{
+    color:gray;
+    text-decoration: overline;
+}
+a:hover{
+    color: red;
+    text-decoration: none ;
+    background-color: yellow;
+}
+
+p{
+    border-radius: 8px;
+    color: rgb(230, 219, 219);
+    background-color: teal;
+    border: yellowgreen 20px dashed;
+    margin:  50px;
+    padding: 20px;
+    text-align: justify;
+    text-decoration: solid;
+    letter-spacing: 0.5px;
+    line-height: 25px;
+    word-spacing: 0.5px;
+    text-transform: capitalize ;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 1em;
+    font-weight: 500;
+   
+  
+   
+}
+h2{
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: rgb(139, 139, 139) 1px ;
+    font-weight: 100;
+    text-shadow: 2px 2px 4px green;
+    font-style: italic;
+    border: rgb(231, 231, 231) 10px double;
+    margin-top:  50px;
+    margin-left: 350px;
+    margin-right: 350px;
+    padding: 20px ;
+}
+body{
+    background-color: rgb(233, 205, 205);
+}
