@@ -1,7 +1,7 @@
 h1{
     color: black;
     text-align: center;
-    text-decoration:  grey 1px  ;
+    text-decoration: none grey 1px  ;
     text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
     font-style: italic;
     font-weight: 100;
@@ -44,7 +44,6 @@ p{
     margin:  50px;
     padding: 20px;
     text-align: justify;
-    text-decoration: solid;
     letter-spacing: 0.5px;
     line-height: 25px;
     word-spacing: 0.5px;
